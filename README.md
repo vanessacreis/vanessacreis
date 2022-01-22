@@ -2,7 +2,7 @@
 
 <p>😄 Ela/dela<br/>📫 Minas Gerais, Brasil.<br/>📚 Desenvolvedora web full stack em formação<br/>⚡ Sou apaixonada por literatura, pode <a href="https://www.linkedin.com/in/vanessacreisbh/">me indicar um livro</a> se quiser.</p>
 
-<div align="center">
+<div>
 <a href = "mailto:vanessacreis"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vanessacreisbh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
