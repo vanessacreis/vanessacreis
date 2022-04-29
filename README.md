@@ -1,6 +1,6 @@
 <h1 align="center">Olá, meu nome é Vanessa <img src="https://media.giphy.com/media/fvSnAaFUjIqh6XXIFp/giphy-downsized.gif" width="30px"></h1>
 
-<p>😄 Ela/dela<br/>📫 Minas Gerais, Brasil.<br/>📚 Desenvolvedora web full stack em formação<br/>⚡ Sou apaixonada por literatura, pode <a href="https://www.linkedin.com/in/vanessacreisbh/">me indicar um livro</a> se quiser.</p>
+<p>😄 Ela/dela<br/>📫 Minas Gerais, Brasil.<br/>📚 Desenvolvedora web full stack <br/>⚡ Sou apaixonada por literatura, pode <a href="https://www.linkedin.com/in/vanessacreisbh/">me indicar um livro</a> se quiser.</p>
 
 <div>
 <a href = "mailto:vanessacreis"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
