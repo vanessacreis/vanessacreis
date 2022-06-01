@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Vanessa <img src="https://media.giphy.com/media/fvSnAaFUjIqh6XXIFp/giphy-downsized.gif" width="30px"></h1>
+<h1 align="center">Olá, meu nome é Vanessa</h1>
 
 <p>😄 Ela/dela<br/>📫 Minas Gerais, Brasil.<br/>📚 Desenvolvedora web full stack <br/>⚡ Sou apaixonada por literatura, pode <a href="https://www.linkedin.com/in/vanessacreisbh/">me indicar um livro</a> se quiser.</p>
 
