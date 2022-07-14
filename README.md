@@ -1,6 +1,6 @@
-<h1 align="center">Olá, meu nome é Vanessa</h1>
+<h1 align="center">Hi, I'm Vanessa! <img src="https://media.giphy.com/media/fvSnAaFUjIqh6XXIFp/giphy-downsized.gif" width="30px"></h1>
 
-<p>😄 Ela/dela<br/>📫 Minas Gerais, Brasil.<br/>📚 Desenvolvedora web full stack <br/>⚡ Sou apaixonada por literatura, pode <a href="https://www.linkedin.com/in/vanessacreisbh/">me indicar um livro</a> se quiser.</p>
+<p>💻 I'm currently working as Software Engineer Trainee at Quaddro.<br/> 😄 She/Her<br/>📫 Minas Gerais, Brasil.</p>
 
 <div>
 <a href = "mailto:vanessacreis"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
@@ -21,5 +21,6 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node.JS" height="40" width="40" src="https://img.icons8.com/color/452/nodejs.png">
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div> <br/>
  
