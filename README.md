@@ -1,6 +1,6 @@
 <h2>Hi, I'm Vanessa! <img src="https://media.giphy.com/media/fvSnAaFUjIqh6XXIFp/giphy-downsized.gif" width="25px"></h2>
 
-<p>😄 She/Her <br/>📫 Minas Gerais, Brasil. <br/>💻 Junior Software Engineer at Quaddro.</p>
+<p>😄 She/Her <br/>📫 Minas Gerais, Brasil. <br/>💻 Frontend Engineer at Quaddro.</p>
 
 <div>
 <a href = "mailto:vanessacreis"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
