@@ -1,6 +1,6 @@
 ## Hi, I'm Vanessa! <img src="https://media.giphy.com/media/fvSnAaFUjIqh6XXIFp/giphy-downsized.gif" width="25px">
 
-<p>⚡ I’m currently working as a Frontend Developer.<br/:
+<p>⚡ I’m currently working as a Frontend Developer.<br/>
 📫 I'm based in Belo Horizonte, Brazil.</p>
 
 ## How to reach me
