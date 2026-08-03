@@ -10,7 +10,7 @@
 ## Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,remix,nextjs,react,vite,sass,tailwind,materialui,styledcomponents,bootstrap,supabase,nodejs,git,vercel,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,remix,nextjs,react,vite,sass,tailwind,materialui,styledcomponents,bootstrap,supabase,nodejs,git,vercel,figma,cypress,firebase,gcp,grafana,mongodb,nuxtjs,vue,wordpress,astro" />
   </a>
 </p>
  
