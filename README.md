@@ -1,10 +1,10 @@
 ## Hi, I'm Vanessa! <img src="https://media.giphy.com/media/fvSnAaFUjIqh6XXIFp/giphy-downsized.gif" width="25px">
 
-<p>💻 I’m currently working as a Frontend Developer.<br/>📫 I'm based in Belo Horizonte, Brazil.</p>
+<p>💻 I’m currently working as a Frontend Developer.<br/>📫 I'm based in Belo Horizonte, Brazil.<br/>☺️​ Pronouns: She/her</p>
 
 ## How to reach me
-<a href = "mailto:vanessacreis"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vanessacreisbh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:vanessacrreis@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vanessacreisbh/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
 </div> 
 
 ## Languages and Tools
