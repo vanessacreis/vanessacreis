@@ -1,6 +1,6 @@
 ## Hi, I'm Vanessa! <img src="https://media.giphy.com/media/fvSnAaFUjIqh6XXIFp/giphy-downsized.gif" width="25px">
 
-<p>💻 I’m currently working as a Frontend Developer.<br/>📫 I'm based in Belo Horizonte, Brazil.<br/>☺️​ Pronouns: She/her</p>
+<p>💻 I’m currently working as a Product Growth Engineer  at Totvs.<br/>📫 I'm based in Belo Horizonte, Brazil.<br/>☺️​ Pronouns: She/her</p>
 
 ## How to reach me
 <a href = "mailto:vanessacrreis@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
